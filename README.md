@@ -1,6 +1,6 @@
 # Kya Kehna !! - Bollywood Dialogues Blog
 <br>
-## My Name is Nishchay Mittal
+My Name is Nishchay Mittal
 <br>
 I created this as an individual project for college purposes
 <br>
